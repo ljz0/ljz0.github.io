@@ -2,7 +2,7 @@
 
 I am a Ph.D. student in Econometrics and Statistics at The University of Chicago Booth School of Business. My primary research interests are causal inference and reinforcement learning. 
 
-[**CV**](https://freshtaste.github.io/cv.pdf)
+[**CV**](https://ljz0.github.io/cv.pdf)
 
 ## Working Papers
 
