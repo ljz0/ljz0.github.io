@@ -8,6 +8,8 @@ I am a Ph.D. student in Econometrics and Statistics at The University of Chicago
 
 ### [Inference for Two-stage Experiments under Covariate-Adaptive Randomization](https://arxiv.org/pdf/2301.09016.pdf)
 
+> I study inference in two-stage randomized experiments with covariate-adaptive randomization. Here, by a two-stage randomized experiment, we mean one in which clusters (e.g., households, schools, or graph partitions) are first randomly assigned to different levels of treated fraction and then units within each treated clusters are randomly assigned to treatment or control according to its selected treated fraction; by covariate-adaptive randomization, we mean randomization schemes that first stratify according to baseline covariates and then assign treatment status so as to achieve “balance” within each stratum.
+
 ### [Revisiting the Analysis of Matched Pair and Stratified Experimental Designs in the Presence of Attrition](https://arxiv.org/pdf/2209.11840.pdf) (with Yuehao Bai, Meng Hsuan Hsieh, and Max Tabord-Meehan)
 
 > We revisit some common recommendations regarding the analysis of matched-pair and stratified experimental designs in the presence of attrition
