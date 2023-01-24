@@ -2,9 +2,11 @@
 
 I am a Ph.D. student in Econometrics and Statistics at The University of Chicago Booth School of Business. My primary research interests are causal inference and reinforcement learning. 
 
-[**CV**](https://ljz0.github.io/cv.pdf)
+[**CV**](https://ljz0.github.io/CV.pdf)
 
 ## Working Papers
+
+### [Inference for Two-stage Experiments under Covariate-Adaptive Randomization](https://arxiv.org/pdf/2301.09016.pdf)
 
 ### [Revisiting the Analysis of Matched Pair and Stratified Experimental Designs in the Presence of Attrition](https://arxiv.org/pdf/2209.11840.pdf) (with Yuehao Bai, Meng Hsuan Hsieh, and Max Tabord-Meehan)
 
