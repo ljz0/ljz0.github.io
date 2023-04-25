@@ -6,7 +6,7 @@ I am a Ph.D. student in Econometrics and Statistics at the University of Chicago
 
 ## Publications
 
-### [Learning Intuitive Policies Using Action Features](https://openreview.net/forum?id=8OrM0aJbb2) (with Mingwei Ma, Samuel Sokota, Max Kleiman-Weiner, Jakob Foerster)
+### [Learning Intuitive Policies Using Action Features](https://arxiv.org/pdf/2201.12658.pdf) (with Mingwei Ma, Samuel Sokota, Max Kleiman-Weiner, Jakob Foerster)
 
 > International Conference on Machine Learning (ICML), 2023
 
