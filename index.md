@@ -4,6 +4,12 @@ I am a Ph.D. student in Econometrics and Statistics at the University of Chicago
 
 [**CV**](https://ljz0.github.io/CV.pdf)
 
+## Publications
+
+### [Learning to Coordinate with Humans using Action Features](https://arxiv.org/pdf/2201.12658.pdf) (with Mingwei Ma, Samuel Sokota, Max Kleiman-Weiner, Jakob Foerster)
+
+> International Conference on Machine Learning (ICML), 2023
+
 ## Working Papers
 
 ### [Inference for Two-stage Experiments under Covariate-Adaptive Randomization](https://arxiv.org/pdf/2301.09016.pdf)
@@ -27,6 +33,4 @@ I am a Ph.D. student in Econometrics and Statistics at the University of Chicago
 > We consider the problem of inference in cluster randomized trials where treatment status is determined according to a “matched pairs” design. 
 
 
-### [Learning to Coordinate with Humans using Action Features](https://arxiv.org/pdf/2201.12658.pdf) (with Mingwei Ma, Samuel Sokota, Max Kleiman-Weiner, Jakob Foerster)
 
-> We investigate the effect of neural network architecture on the propensity of learning algorithms to exploit semantic relationships between the features of actions and the features of observations, in order to help address challenge in human-AI coordination.
