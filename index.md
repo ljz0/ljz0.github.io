@@ -19,7 +19,7 @@ I am a Ph.D. student in Econometrics and Statistics at the University of Chicago
 
 ### [Inference for Matched Tuples and Fully Blocked Factorial Designs](https://arxiv.org/pdf/2206.04157.pdf) (with Yuehao Bai and Max Tabord- Meehan)
 
-> We study inference in randomized controlled trials with multiple treatments, where treatment status is determined according to a “matched tuples” design.
+> We study inference in randomized controlled trials with multiple treatments, where treatment status is determined according to a “matched tuples” design. Revi­sion requested by _Quan­ti­ta­tive Eco­nom­ics.
 
 ### [Efficient Treatment Effect Estimation in Observational Studies under Heterogeneous Partial Interference](https://arxiv.org/pdf/2107.12420.pdf) (with Zhaonan Qu, Ruoxuan Xiong and Guido Imbens)
 
