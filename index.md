@@ -35,6 +35,11 @@ I am a Ph.D. student in Econometrics and Statistics at the University of Chicago
 
 ### [Inference in Cluster Randomized Trials with Matched Pairs](https://arxiv.org/pdf/2211.14903v1.pdf) (with Yuehao Bai, Azeem Shaikh and Max Tabord-Meehan)
 
-> We consider the problem of inference in cluster randomized trials where treatment status is determined according to a “matched pairs” design. 
+> We consider the problem of inference in cluster randomized trials where treatment status is determined according to a “matched pairs” design.
+
+### [Proximal Causal Inference for Synthetic Control with Surrogates](https://arxiv.org/pdf/2308.09527.pdf) (with Eric J. Tchetgen Tchetgen and Carlos Varjão)
+
+> The synthetic control method faces challenges in accurately predicting post-intervention potential outcome had, contrary to fact, the treatment been withheld, when the pre-intervention period is short or the post-intervention period is long. To address these issues, we propose a novel method that leverages post-intervention information, specifically time-varying correlates of the causal effect called "surrogates", within the synthetic control framework.
+
 
 
