@@ -7,16 +7,17 @@ body {
   font-family: sans-serif;
   margin: 0;
   padding: 0;
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  height: 100vh;
 }
 
 main {
-  max-width: 800px;  /* you can adjust this value as desired */
-  width: 100%;
+  max-width: 100%; /* This will ensure the content takes up the full width of the container */
+  margin: 0 auto;  /* This centers the content */
+  padding: 20px;  /* Add some padding around your content for readability */
+  box-sizing: border-box; /* Ensures padding doesn't affect overall width */
 }
 
-
+article, section {
+  width: 100%; /* Ensuring inner elements also expand fully */
+  box-sizing: border-box;
+}
 
