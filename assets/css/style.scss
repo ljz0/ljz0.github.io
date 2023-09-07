@@ -1,23 +1,4 @@
 ---
 ---
 
-@import "{{ site.theme }}";
-
-body {
-  font-family: sans-serif;
-  margin: 0;
-  padding: 0;
-  font-size: 18px; /* Adjust this value to change the font size */
-}
-
-main {
-  max-width: 80%;  /* This ensures the content takes up 90% of the viewport width, leaving 5% space on the left and right */
-  margin: 0 auto;   /* Center the content */
-  padding: 20px;    /* Add some padding around your content for readability */
-  box-sizing: border-box; 
-}
-
-article, section {
-  width: 100%; 
-  box-sizing: border-box;
-}
+@import "jekyll-theme-slate";
