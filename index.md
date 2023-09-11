@@ -1,4 +1,6 @@
-### I am a Ph.D. student in Econometrics and Statistics at the University of Chicago Booth School of Business, where I am advised by [Azeem Shaikh](https://home.uchicago.edu/~amshaikh/) and [Christian Hansen](https://voices.uchicago.edu/christianhansen/). My primary research interests are in causal inference, including the design and analysis of experiments and observational studies. I am honored to have been awarded the Amazon Graduate Fellowship 2022, which enables me to work on industry-related problems in causal inference.
+### About
+
+I am a Ph.D. student in Econometrics and Statistics at the University of Chicago Booth School of Business, where I am advised by [Azeem Shaikh](https://home.uchicago.edu/~amshaikh/) and [Christian Hansen](https://voices.uchicago.edu/christianhansen/). My primary research interests are in causal inference, including the design and analysis of experiments and observational studies. I am honored to have been awarded the Amazon Graduate Fellowship 2022, which enables me to work on industry-related problems in causal inference.
 
 [**CV**](https://ljz0.github.io/CV.pdf)
 
