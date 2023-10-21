@@ -19,7 +19,7 @@
 > We study inference in two-stage randomized experiments with covariate-adaptive randomization. Here, by a two-stage randomized experiment, we mean one in which clusters (e.g., households, schools, or graph partitions) are first randomly assigned to different levels of treated fraction and then units within each treated clusters are randomly assigned to treatment or control according to its selected treated fraction; by covariate-adaptive randomization, we mean randomization schemes that first stratify according to baseline covariates and then assign treatment status so as to achieve “balance” within each stratum.
 
 
-### [Inference for Matched Tuples and Fully Blocked Factorial Designs](https://arxiv.org/pdf/2206.04157.pdf) (with Yuehao Bai and Max Tabord- Meehan)
+### [Inference for Matched Tuples and Fully Blocked Factorial Designs](https://arxiv.org/pdf/2206.04157.pdf) (with Yuehao Bai and Max Tabord-Meehan)
 
 > Revi­sion requested by **Quan­ti­ta­tive Eco­nom­ics**.
 
