@@ -4,6 +4,10 @@
 
 ## Publications and Forthcoming Papers
 
+### [Inference for Matched Tuples and Fully Blocked Factorial Designs](https://arxiv.org/pdf/2206.04157.pdf) (with Yuehao Bai and Max Tabord-Meehan)
+
+> Accepted by **Quan­ti­ta­tive Eco­nom­ics**.
+
 ### [Revisiting the Analysis of Matched Pair and Stratified Experimental Designs in the Presence of Attrition](https://arxiv.org/pdf/2209.11840.pdf) (with Yuehao Bai, Meng Hsuan Hsieh, and Max Tabord-Meehan)
 
 > Accepted by **Jour­nal of Applied Econo­met­rics**.
@@ -17,11 +21,6 @@
 ### [Inference for Two-stage Experiments under Covariate-Adaptive Randomization](https://arxiv.org/pdf/2301.09016.pdf)
 
 > We study inference in two-stage randomized experiments with covariate-adaptive randomization. Here, by a two-stage randomized experiment, we mean one in which clusters (e.g., households, schools, or graph partitions) are first randomly assigned to different levels of treated fraction and then units within each treated clusters are randomly assigned to treatment or control according to its selected treated fraction; by covariate-adaptive randomization, we mean randomization schemes that first stratify according to baseline covariates and then assign treatment status so as to achieve “balance” within each stratum.
-
-
-### [Inference for Matched Tuples and Fully Blocked Factorial Designs](https://arxiv.org/pdf/2206.04157.pdf) (with Yuehao Bai and Max Tabord-Meehan)
-
-> Revi­sion requested by **Quan­ti­ta­tive Eco­nom­ics**.
 
 ### [Efficient Treatment Effect Estimation in Observational Studies under Heterogeneous Partial Interference](https://arxiv.org/pdf/2107.12420.pdf) (with Zhaonan Qu, Ruoxuan Xiong and Guido Imbens)
 
