@@ -6,11 +6,11 @@
 
 ### [Inference for Matched Tuples and Fully Blocked Factorial Designs](https://arxiv.org/pdf/2206.04157.pdf) (with Yuehao Bai and Max Tabord-Meehan)
 
-> Conditionally accepted by **Quan­ti­ta­tive Eco­nom­ics**.
+> Conditionally Accepted at the **Quan­ti­ta­tive Eco­nom­ics**.
 
 ### [Revisiting the Analysis of Matched Pair and Stratified Experimental Designs in the Presence of Attrition](https://arxiv.org/pdf/2209.11840.pdf) (with Yuehao Bai, Meng Hsuan Hsieh, and Max Tabord-Meehan)
 
-> Forthcominig at **Jour­nal of Applied Econo­met­rics**.
+> Forthcominig at the **Jour­nal of Applied Econo­met­rics**.
 
 ### [Learning Intuitive Policies Using Action Features](https://arxiv.org/pdf/2201.12658.pdf) (with Mingwei Ma, Samuel Sokota, Max Kleiman-Weiner, Jakob Foerster)
 
