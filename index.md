@@ -30,7 +30,7 @@
 
 > We study the efficient estimation of a large class of treatment effect parameters that arise in the analysis of experiments.
 
-### [Inference in Cluster Randomized Trials with Matched Pairs](https://arxiv.org/pdf/2211.14903v1.pdf) (with Yuehao Bai, Azeem Shaikh and Max Tabord-Meehan)
+### [Inference in Cluster Randomized Trials with Matched Pairs](https://arxiv.org/pdf/2211.14903.pdf) (with Yuehao Bai, Azeem Shaikh and Max Tabord-Meehan)
 
 > We consider the problem of inference in cluster randomized trials where treatment status is determined according to a “matched pairs” design.
 
