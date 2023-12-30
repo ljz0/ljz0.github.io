@@ -1,5 +1,6 @@
 <span style="font-size:20px;">I am a Ph.D. student in Econometrics and Statistics at the University of Chicago Booth School of Business, where I am advised by [Azeem Shaikh](https://home.uchicago.edu/~amshaikh/) and [Christian Hansen](https://voices.uchicago.edu/christianhansen/). My primary research interests are in causal inference, including the design and analysis of experiments and observational studies. I am honored to have been awarded the Amazon Graduate Fellowship 2022, which enables me to work on industry-related problems in causal inference.</span>
 
+
 ## Publications and Forthcoming Papers
 
 ### [Inference for Matched Tuples and Fully Blocked Factorial Designs](https://arxiv.org/pdf/2206.04157.pdf) (with Yuehao Bai and Max Tabord-Meehan)
@@ -16,6 +17,10 @@
 
 ## Working Papers
 
+### [Inference in Cluster Randomized Trials with Matched Pairs](https://arxiv.org/pdf/2211.14903.pdf) (with Yuehao Bai, Azeem Shaikh and Max Tabord-Meehan)
+
+> Revision Requested at the **Jour­nal of Econo­met­rics**.
+
 ### [Inference for Two-stage Experiments under Covariate-Adaptive Randomization](https://arxiv.org/pdf/2301.09016.pdf)
 
 > We study inference in two-stage randomized experiments with covariate-adaptive randomization. Here, by a two-stage randomized experiment, we mean one in which clusters (e.g., households, schools, or graph partitions) are first randomly assigned to different levels of treated fraction and then units within each treated clusters are randomly assigned to treatment or control according to its selected treated fraction; by covariate-adaptive randomization, we mean randomization schemes that first stratify according to baseline covariates and then assign treatment status so as to achieve “balance” within each stratum.
@@ -27,10 +32,6 @@
 ### [On the Effi­ciency of Finely Strat­i­fied Exper­i­ments](https://arxiv.org/pdf/2307.15181.pdf) (with Yuehao Bai, Azeem Shaikh and Max Tabord-Meehan)
 
 > We study the efficient estimation of a large class of treatment effect parameters that arise in the analysis of experiments.
-
-### [Inference in Cluster Randomized Trials with Matched Pairs](https://arxiv.org/pdf/2211.14903.pdf) (with Yuehao Bai, Azeem Shaikh and Max Tabord-Meehan)
-
-> We consider the problem of inference in cluster randomized trials where treatment status is determined according to a “matched pairs” design.
 
 ### [Proximal Causal Inference for Synthetic Control with Surrogates](https://arxiv.org/pdf/2308.09527.pdf) (with Eric J. Tchetgen Tchetgen and Carlos Varjão)
 
