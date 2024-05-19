@@ -10,7 +10,7 @@
 
 ### [Revisiting the Analysis of Matched Pair and Stratified Experimental Designs in the Presence of Attrition](https://arxiv.org/pdf/2209.11840.pdf) (with Yuehao Bai, Meng Hsuan Hsieh, and Max Tabord-Meehan)
 
-> **Jour­nal of Applied Econo­met­rics** 39(2), 256–268. **2024**
+> **Jour­nal of Applied Econo­met­rics, 2024** 39(2), 256–268.
 
 ### [Proximal Causal Inference for Synthetic Control with Surrogates](https://arxiv.org/pdf/2308.09527.pdf) (with Eric J. Tchetgen Tchetgen and Carlos Varjão)
 
