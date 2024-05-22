@@ -6,7 +6,7 @@
 
 ### [Inference for Matched Tuples and Fully Blocked Factorial Designs](https://arxiv.org/pdf/2206.04157.pdf) (with Yuehao Bai and Max Tabord-Meehan)
 
-> Forthcominig at the **Quan­ti­ta­tive Eco­nom­ics**.
+> **Quan­ti­ta­tive Eco­nom­ics**, 2024, 15(2), 279–330.
 
 ### [Revisiting the Analysis of Matched Pair and Stratified Experimental Designs in the Presence of Attrition](https://arxiv.org/pdf/2209.11840.pdf) (with Yuehao Bai, Meng Hsuan Hsieh, and Max Tabord-Meehan)
 
