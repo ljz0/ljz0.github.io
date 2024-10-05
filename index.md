@@ -42,7 +42,3 @@
 ### [On the Effi­ciency of Finely Strat­i­fied Exper­i­ments](https://arxiv.org/pdf/2307.15181.pdf) (with Yuehao Bai, Azeem Shaikh and Max Tabord-Meehan)
 
 > We study the efficient estimation of a large class of treatment effect parameters that arise in the analysis of experiments.
-
-### Randomization Tests for Multiple Randomization Designs (with Azeem Shaikh and Panos Toulis)
-
-> Draft coming soon.
