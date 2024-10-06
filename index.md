@@ -9,6 +9,10 @@
 
 ## Publications and Forthcoming Papers
 
+### [Inference in Cluster Randomized Trials with Matched Pairs](https://arxiv.org/pdf/2211.14903.pdf) (with Yuehao Bai, Azeem Shaikh and Max Tabord-Meehan)
+
+> Accepted by the **Jour­nal of Econo­met­rics**.
+
 ### [Inference for Matched Tuples and Fully Blocked Factorial Designs](https://arxiv.org/pdf/2206.04157.pdf) (with Yuehao Bai and Max Tabord-Meehan)
 
 > **Quan­ti­ta­tive Eco­nom­ics**, 2024, 15(2), 279–330.
@@ -28,10 +32,6 @@
 ## Working Papers
 
 ### [Inference for Two-stage Experiments under Covariate-Adaptive Randomization](https://drive.google.com/file/d/14nUgdKqKN1JTs696u-SWvhDxtYQ23UZq/view?usp=sharing) (Job Market Paper)
-
-> Revision Requested at the **Jour­nal of Econo­met­rics**.
-
-### [Inference in Cluster Randomized Trials with Matched Pairs](https://arxiv.org/pdf/2211.14903.pdf) (with Yuehao Bai, Azeem Shaikh and Max Tabord-Meehan)
 
 > Revision Requested at the **Jour­nal of Econo­met­rics**.
 
