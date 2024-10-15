@@ -2,9 +2,9 @@
 
 <span style="font-size:20px;">Starting in Autumn 2024, I joined Amazon as a Postdoctoral Scientist, collaborating with [Eric Tchetgen Tchetgen](https://statistics.wharton.upenn.edu/profile/ett/) on challenging causal inference and machine learning problems inspired by real-world applications.</span> 
 
-<span style="font-size:20px;">I am currently on the 2024-2025 academic job market.</span>
-
 <img src="photo.JPG" width="250" />
+
+<span style="font-size:20px;">I am currently on the 2024-2025 academic job market.</span>
 
 [**CV**](https://ljz0.github.io/CV.pdf)
 
