@@ -15,9 +15,7 @@
     </div>
 </div>
 
-
-
-[**CV**](https://ljz0.github.io/CV.pdf)
+[**Curriculum Vitae**](https://ljz0.github.io/CV.pdf)
 
 ## Publications and Forthcoming Papers
 
