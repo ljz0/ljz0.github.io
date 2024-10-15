@@ -1,7 +1,7 @@
 <div style="display: flex; align-items: flex-start;">
     <div style="max-width: 600px; text-align: justify;">
         <span style="font-size:20px;">
-            I completed my PhD in Econometrics and Statistics at the University of Chicago Booth School of Business from 2020 to 2024, where I was advised by <a href="https://home.uchicago.edu/~amshaikh/">Azeem Shaikh</a> and <a href="https://voices.uchicago.edu/christianhansen/">Christian Hansen</a>. My primary research interests are in causal inference, including the design and analysis of experiments and observational studies.
+            I completed my PhD in Econometrics and Statistics at the University of Chicago Booth School of Business from 2020 to 2024, where I was advised by <a href="https://home.uchicago.edu/~amshaikh/">Azeem Shaikh</a> and <a href="https://voices.uchicago.edu/christianhansen/">Christian Hansen</a>. My primary research interests are in causal inference, including the design and analysis of randomized experiments and observational studies.
         </span>
         <br><br>
         <span style="font-size:20px;">
