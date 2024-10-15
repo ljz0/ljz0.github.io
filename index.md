@@ -1,5 +1,4 @@
 <div style="display: flex; align-items: flex-start;">
-    <img src="photo.JPG" width="250" style="margin-right: 20px;" />
     <div style="max-width: 600px; text-align: justify;">
         <span style="font-size:20px;">
             I completed my PhD in Econometrics and Statistics at the University of Chicago Booth School of Business from 2020 to 2024, where I was advised by <a href="https://home.uchicago.edu/~amshaikh/">Azeem Shaikh</a> and <a href="https://voices.uchicago.edu/christianhansen/">Christian Hansen</a>. My primary research interests are in causal inference, including the design and analysis of experiments and observational studies.
@@ -13,6 +12,7 @@
             I am currently on the 2024-2025 academic job market.
         </span>
     </div>
+    <img src="photo.JPG" width="250" style="margin-right: 20px;" />
 </div>
 
 [**Curriculum Vitae**](https://ljz0.github.io/CV.pdf)
