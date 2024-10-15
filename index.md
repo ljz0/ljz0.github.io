@@ -1,8 +1,7 @@
+<img src="photo.JPG" width="250" />
 <span style="font-size:20px;">I completed my PhD in Econometrics and Statistics at the University of Chicago Booth School of Business from 2020 to 2024, where I was advised by [Azeem Shaikh](https://home.uchicago.edu/~amshaikh/) and [Christian Hansen](https://voices.uchicago.edu/christianhansen/). My primary research interests are in causal inference, including the design and analysis of experiments and observational studies.</span>
 
 <span style="font-size:20px;">Starting in Autumn 2024, I joined Amazon as a Postdoctoral Scientist, collaborating with [Eric Tchetgen Tchetgen](https://statistics.wharton.upenn.edu/profile/ett/) on challenging causal inference and machine learning problems inspired by real-world applications.</span> 
-
-<img src="photo.JPG" width="250" />
 
 <span style="font-size:20px;">I am currently on the 2024-2025 academic job market.</span>
 
