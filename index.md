@@ -10,6 +10,21 @@
 
 [**Curriculum Vitae**](https://ljz0.github.io/CV.pdf)
 
+## Working Papers
+
+### [Inference for Two-stage Experiments under Covariate-Adaptive Randomization](https://drive.google.com/file/d/14nUgdKqKN1JTs696u-SWvhDxtYQ23UZq/view?usp=sharing) (Job Market Paper)
+
+> Revision Requested at the **Jour­nal of Econo­met­rics**.
+
+### [Efficient Treatment Effect Estimation in Observational Studies under Heterogeneous Partial Interference](https://arxiv.org/pdf/2107.12420.pdf) (with Zhaonan Qu, Ruoxuan Xiong and Guido Imbens)
+
+> We propose a flexible framework for heterogeneous partial interference that partitions units into subsets based on observables. We allow interactions to be heterogeneous across subsets, but homogeneous for individuals within a subset. In this framework, we propose a class of estimators for heterogeneous direct and spillover effects from observational data that are shown to be doubly robust, asymptotically normal, and semiparametric efficient.
+
+### [On the Effi­ciency of Finely Strat­i­fied Exper­i­ments](https://arxiv.org/pdf/2307.15181.pdf) (with Yuehao Bai, Azeem Shaikh and Max Tabord-Meehan)
+
+> We study the efficient estimation of a large class of treatment effect parameters that arise in the analysis of experiments.
+
+
 ## Publications and Forthcoming Papers
 
 ### [Inference in Cluster Randomized Trials with Matched Pairs](https://arxiv.org/pdf/2211.14903.pdf) (with Yuehao Bai, Azeem Shaikh and Max Tabord-Meehan)
@@ -32,16 +47,3 @@
 
 > **International Conference on Machine Learning (ICML), 2023**
 
-## Working Papers
-
-### [Inference for Two-stage Experiments under Covariate-Adaptive Randomization](https://drive.google.com/file/d/14nUgdKqKN1JTs696u-SWvhDxtYQ23UZq/view?usp=sharing) (Job Market Paper)
-
-> Revision Requested at the **Jour­nal of Econo­met­rics**.
-
-### [Efficient Treatment Effect Estimation in Observational Studies under Heterogeneous Partial Interference](https://arxiv.org/pdf/2107.12420.pdf) (with Zhaonan Qu, Ruoxuan Xiong and Guido Imbens)
-
-> We propose a flexible framework for heterogeneous partial interference that partitions units into subsets based on observables. We allow interactions to be heterogeneous across subsets, but homogeneous for individuals within a subset. In this framework, we propose a class of estimators for heterogeneous direct and spillover effects from observational data that are shown to be doubly robust, asymptotically normal, and semiparametric efficient.
-
-### [On the Effi­ciency of Finely Strat­i­fied Exper­i­ments](https://arxiv.org/pdf/2307.15181.pdf) (with Yuehao Bai, Azeem Shaikh and Max Tabord-Meehan)
-
-> We study the efficient estimation of a large class of treatment effect parameters that arise in the analysis of experiments.
