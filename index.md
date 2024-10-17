@@ -16,13 +16,13 @@
 
 > Revision Requested at the **Jour­nal of Econo­met­rics**.
 
+### [Efficient Treatment Effect Estimation in Observational Studies under Heterogeneous Partial Interference](https://arxiv.org/pdf/2107.12420.pdf) (with Zhaonan Qu, Ruoxuan Xiong and Guido Imbens)
+
+> Revision Requested at the **Journal of Business & Economic Statistics**.
+
 ### [On the Effi­ciency of Finely Strat­i­fied Exper­i­ments](https://arxiv.org/pdf/2307.15181.pdf) (with Yuehao Bai, Azeem Shaikh and Max Tabord-Meehan)
 
 > We study the efficient estimation of a large class of treatment effect parameters that arise in the analysis of experiments.
-
-### [Efficient Treatment Effect Estimation in Observational Studies under Heterogeneous Partial Interference](https://arxiv.org/pdf/2107.12420.pdf) (with Zhaonan Qu, Ruoxuan Xiong and Guido Imbens)
-
-> We propose a flexible framework for heterogeneous partial interference that partitions units into subsets based on observables. We allow interactions to be heterogeneous across subsets, but homogeneous for individuals within a subset. In this framework, we propose a class of estimators for heterogeneous direct and spillover effects from observational data that are shown to be doubly robust, asymptotically normal, and semiparametric efficient.
 
 
 ## Publications and Forthcoming Papers
