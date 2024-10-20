@@ -12,7 +12,7 @@
 
 ## Working Papers
 
-### [Inference for Two-stage Experiments under Covariate-Adaptive Randomization](https://drive.google.com/file/d/14nUgdKqKN1JTs696u-SWvhDxtYQ23UZq/view?usp=sharing) (Job Market Paper)
+### [Inference for Two-stage Experiments under Covariate-Adaptive Randomization](https://drive.google.com/file/d/14nUgdKqKN1JTs696u-SWvhDxtYQ23UZq/view?usp=sharing) (**Job Market Paper**)
 
 > Revision Requested at the **Jour­nal of Econo­met­rics**.
 > <details>
