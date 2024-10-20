@@ -14,7 +14,13 @@
 
 ### [Inference for Two-stage Experiments under Covariate-Adaptive Randomization](https://drive.google.com/file/d/14nUgdKqKN1JTs696u-SWvhDxtYQ23UZq/view?usp=sharing) (Job Market Paper)
 
+<details>
+  <summary>Abstract (click to expand)</summary>
+  <p>This paper studies...</p>
+</details>
+
 > Revision Requested at the **Jour­nal of Econo­met­rics**.
+
 
 ### [Efficient Treatment Effect Estimation in Observational Studies under Heterogeneous Partial Interference](https://arxiv.org/pdf/2107.12420.pdf) (with Zhaonan Qu, Ruoxuan Xiong and Guido Imbens)
 
