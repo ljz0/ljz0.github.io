@@ -15,8 +15,8 @@
 ### [Inference for Two-stage Experiments under Covariate-Adaptive Randomization](https://drive.google.com/file/d/14nUgdKqKN1JTs696u-SWvhDxtYQ23UZq/view?usp=sharing) (Job Market Paper)
 
 <details>
-  <summary>Abstract (click to expand)</summary>
-  <p>This paper studies...</p>
+  <summary>Abstract</summary>
+  <p>This paper studies inference in two-stage randomized experiments under covariate-adaptive randomization. In the initial stage of this experimental design, clusters (e.g., households, schools, or graph partitions) are stratified and randomly assigned to control or treatment groups based on cluster-level covariates. Subsequently, an independent second-stage design is carried out, wherein units within each treated cluster are further stratified and randomly assigned to either control or treatment groups, based on individual-level covariates. Under the homogeneous partial interference assumption, I establish conditions under which the proposed difference-in-``average of averages'' estimators are consistent and asymptotically normal for the corresponding average primary and spillover effects and develop consistent estimators of their asymptotic variances. Combining these results establishes the asymptotic validity of tests based on these estimators. My findings suggest that ignoring covariate information in the design stage can result in efficiency loss, and commonly used inference methods that ignore or improperly use covariate information can lead to either conservative or invalid inference. Then, I apply these results to studying optimal use of covariate information under covariate-adaptive randomization in large samples, and demonstrate that a specific generalized matched-pair design achieves minimum asymptotic variance for each proposed estimator. Finally, I discuss covariate adjustment, which incorporates additional baseline covariates not used for treatment assignment. The practical relevance of the theoretical results is illustrated through a simulation study and an empirical application.</p>
 </details>
 
 > Revision Requested at the **Jour­nal of Econo­met­rics**.
