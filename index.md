@@ -33,7 +33,7 @@
 
 ## Publications and Forthcoming Papers
 
-### [Inference in Cluster Randomized Trials with Matched Pairs](https://arxiv.org/pdf/2211.14903.pdf) (with Yuehao Bai, Azeem Shaikh and Max Tabord-Meehan)
+### [Inference in Cluster Randomized Trials with Matched Pairs]([https://arxiv.org/pdf/2211.14903.pdf](https://www.sciencedirect.com/science/article/pii/S0304407624002185?dgcid=author) (with Yuehao Bai, Azeem Shaikh and Max Tabord-Meehan)
 
 > **Jour­nal of Econo­met­rics**, 245(1), 105873.
 
