@@ -35,7 +35,7 @@
 
 ### [Inference in Cluster Randomized Trials with Matched Pairs](https://arxiv.org/pdf/2211.14903.pdf) (with Yuehao Bai, Azeem Shaikh and Max Tabord-Meehan)
 
-> Accepted by the **Jour­nal of Econo­met­rics**.
+> **Jour­nal of Econo­met­rics**, 245(1), 105873.
 
 ### [Inference for Matched Tuples and Fully Blocked Factorial Designs](https://arxiv.org/pdf/2206.04157.pdf) (with Yuehao Bai and Max Tabord-Meehan)
 
