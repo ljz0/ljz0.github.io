@@ -35,15 +35,15 @@
 
 ### [Inference in Cluster Randomized Trials with Matched Pairs](https://www.sciencedirect.com/science/article/pii/S0304407624002185?dgcid=author) (with Yuehao Bai, Azeem Shaikh and Max Tabord-Meehan)
 
-> **Jour­nal of Econo­met­rics**, 245(1), 105873.
+> **Jour­nal of Econo­met­rics**, 245(1), 105873. (2024)
 
 ### [Inference for Matched Tuples and Fully Blocked Factorial Designs](https://www.econometricsociety.org/publications/quantitative-economics/2024/05/01/Inference-for-Matched-Tuples-and-Fully-Blocked-Factorial-Designs) (with Yuehao Bai and Max Tabord-Meehan)
 
-> **Quan­ti­ta­tive Eco­nom­ics**, 2024, 15(2), 279–330.
+> **Quan­ti­ta­tive Eco­nom­ics**, 2024, 15(2), 279–330. (2024)
 
 ### [Revisiting the Analysis of Matched Pair and Stratified Experimental Designs in the Presence of Attrition](https://onlinelibrary.wiley.com/doi/10.1002/jae.3025) (with Yuehao Bai, Meng Hsuan Hsieh, and Max Tabord-Meehan)
 
-> **Jour­nal of Applied Econo­met­rics**, 2024, 39(2), 256–268.
+> **Jour­nal of Applied Econo­met­rics**, 2024, 39(2), 256–268. (2024)
 
 ### [Proximal Causal Inference for Synthetic Control with Surrogates](https://arxiv.org/pdf/2308.09527.pdf) (with Eric J. Tchetgen Tchetgen and Carlos Varjão)
 
