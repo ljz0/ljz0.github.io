@@ -56,13 +56,13 @@
 
 ## Work in Progress
 
-### [Randomization Inference for Multi-Sided Market Experiments]() (with Azeem Shaikh and Panos Toulis)
+### Randomization Inference for Multi-Sided Market Experiments (with Azeem Shaikh and Panos Toulis)
 
 > <details>
 >  <summary>Abstract</summary>
 >  <p>Randomized experiments are increasingly employed in two-sided markets, such as buyer-seller platforms, to evaluate treatment effects from marketplace interventions. These experiments, including the recently introduced Multiple Randomization Designs (MRDs), must reflect the underlying market structure, making them particularly challenging to analyze. In this paper, we propose a randomization inference framework to analyze outcomes from such two-sided experiments. Our approach is finite-sample valid under sharp null hypotheses for any test statistic and maintains asymptotic validity under weak null hypotheses through studentization. Moreover, we provide heuristic guidance for choosing among multiple valid conditional randomization tests to enhance statistical power. Finally, we demonstrate the performance of our methodology through a series of simulation studies.</p>
 > </details>
 
-### [Auto-G-Computation of Doubly Robust Estimation on a Network]() (with Eric J. Tchetgen Tchetgen)
+### Auto-G-Computation of Doubly Robust Estimation on a Network (with Eric J. Tchetgen Tchetgen)
 
 
