@@ -22,7 +22,7 @@
 
 
 
-### [Efficient Treatment Effect Estimation in Observational Studies under Heterogeneous Partial Interference](https://arxiv.org/pdf/2107.12420.pdf) (with Zhaonan Qu, Ruoxuan Xiong and Guido Imbens)
+### [Semiparametric Estimation of Treatment Effects in Observational Studies with Heterogeneous Partial Interference](https://arxiv.org/pdf/2107.12420.pdf) (with Zhaonan Qu, Ruoxuan Xiong and Guido Imbens)
 
 > Revision Requested at the **Journal of Business & Economic Statistics**.
 
