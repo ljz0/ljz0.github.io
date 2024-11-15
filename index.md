@@ -56,7 +56,7 @@
 
 ## Work in Progress
 
-### Randomization Inference for Multi-Sided Market Experiments (with Azeem Shaikh and Panos Toulis)
+### Randomization Inference for Two-Sided Market Experiments (with Azeem Shaikh and Panos Toulis)
 
 > <details>
 >  <summary>Abstract</summary>
