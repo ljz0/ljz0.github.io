@@ -20,7 +20,7 @@
 
 ### [On the Effi­ciency of Finely Strat­i­fied Exper­i­ments](https://arxiv.org/pdf/2307.15181.pdf) (with Yuehao Bai, Azeem Shaikh and Max Tabord-Meehan)
 
-> We study the efficient estimation of a large class of treatment effect parameters that arise in the analysis of experiments.
+> Revision Requested at the **Annals of Sta­tis­tics**.
 
 ### [Randomization Inference for Two-Sided Market Experiments](https://arxiv.org/pdf/2504.06215) (with Azeem Shaikh and Panos Toulis)
 
