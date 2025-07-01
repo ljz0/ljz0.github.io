@@ -28,7 +28,7 @@
 
 > We propose a randomization inference framework to analyze outcomes from two-sided market experiments.
 
-### [Auto-Doubly Robust Estimation of Causal Effects on a Network]([https://arxiv.org/pdf/2504.06215](https://arxiv.org/abs/2506.23332)) (with Dake Zhang and Eric J. Tchetgen Tchetgen)
+### [Auto-Doubly Robust Estimation of Causal Effects on a Network](https://arxiv.org/abs/2506.23332) (with Dake Zhang and Eric J. Tchetgen Tchetgen)
 
 > We develop new methods for causal inference in observational studies on a single large network of interconnected units, addressing two key challenges: long-range dependence among units and the presence of general interference.
 
