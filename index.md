@@ -2,6 +2,8 @@
 
 <span style="font-size:20px;">My research focuses on causal inference and econometrics, with a particular interest in the design and analysis of randomized experiments. </span>
 
+<span style="font-size:20px;">I will be joining Peking University HSBC Business School as a tenure-track Assistant Professor in Fall 2025.</span>
+
 <img src="photo.JPG" width="250" />
 
 
@@ -26,6 +28,10 @@
 
 > We propose a randomization inference framework to analyze outcomes from two-sided market experiments.
 
+### [Auto-Doubly Robust Estimation of Causal Effects on a Network]([https://arxiv.org/pdf/2504.06215](https://arxiv.org/abs/2506.23332)) (with Dake Zhang and Eric J. Tchetgen Tchetgen)
+
+> We develop new methods for causal inference in observational studies on a single large network of interconnected units, addressing two key challenges: long-range dependence among units and the presence of general interference.
+
 ## Publications and Forthcoming Papers
 
 ### [Inference in Cluster Randomized Trials with Matched Pairs](https://www.sciencedirect.com/science/article/pii/S0304407624002185?dgcid=author) (with Yuehao Bai, Azeem Shaikh and Max Tabord-Meehan)
@@ -48,9 +54,5 @@
 
 > **International Conference on Machine Learning (ICML), 2023**
 
-
-## Work in Progress
-
-### Auto-G-Computation of Doubly Robust Estimation on a Network (with Eric J. Tchetgen Tchetgen)
 
 
