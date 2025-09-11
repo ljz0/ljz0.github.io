@@ -4,8 +4,6 @@
 
 <span style="font-size:20px;">I will be joining Peking University HSBC Business School as a tenure-track Assistant Professor in Fall 2025.</span>
 
-<img src="photo.JPG" width="250" />
-
 
 [**Curriculum Vitae**](https://ljz0.github.io/CV.pdf)
 
