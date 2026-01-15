@@ -10,7 +10,7 @@
 
 ## Working Papers
 
-### [Inference for Two-stage Experiments under Covariate-Adaptive Randomization](https://drive.google.com/file/d/14nUgdKqKN1JTs696u-SWvhDxtYQ23UZq/view?usp=sharing)
+### [Inference for Two-stage Experiments under Covariate-Adaptive Randomization](https://arxiv.org/pdf/2301.09016)
 
 > Revision Requested at the **Jour­nal of Econo­met­rics**.
 
