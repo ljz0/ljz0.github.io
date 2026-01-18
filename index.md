@@ -26,7 +26,7 @@
 
 ## Publications and Forthcoming Papers
 
-### [Inference for Two-stage Experiments under Covariate-Adaptive Randomization](https://www.sciencedirect.com/science/article/abs/pii/S0304407624002185?dgcid=author)
+### [Inference for Two-stage Experiments under Covariate-Adaptive Randomization](https://www.sciencedirect.com/science/article/abs/pii/S0304407626000102)
 
 > **Jour­nal of Econo­met­rics**, 253, 106189. (2026)
 
