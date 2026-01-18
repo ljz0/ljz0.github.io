@@ -1,19 +1,12 @@
-<span style="font-size:20px;">I received my PhD in Econometrics and Statistics from the University of Chicago Booth School of Business, where I was mentored by [Azeem Shaikh](https://home.uchicago.edu/~amshaikh/) and [Christian Hansen](https://voices.uchicago.edu/christianhansen/) between 2020 and 2024. In Autumn 2024, I joined Amazon as a Postdoctoral Scientist, where I work on panel data methods and machine learning for policy evaluation with [Eric Tchetgen Tchetgen](https://statistics.wharton.upenn.edu/profile/ett/).</span>
+<span style="font-size:20px;">I am an Assistant Professor at Peking University HSBC Business School. I received my PhD in Econometrics and Statistics from the University of Chicago Booth School of Business, where I was mentored by [Azeem Shaikh](https://home.uchicago.edu/~amshaikh/) and [Christian Hansen](https://voices.uchicago.edu/christianhansen/) between 2020 and 2024. In Autumn 2024, I joined Amazon as a Postdoctoral Scientist, where I work on panel data methods and machine learning for policy evaluation with [Eric Tchetgen Tchetgen](https://statistics.wharton.upenn.edu/profile/ett/).</span>
 
 <span style="font-size:20px;">My research focuses on causal inference and econometrics, with a particular interest in the design and analysis of randomized experiments. </span>
-
-<span style="font-size:20px;">I will be joining Peking University HSBC Business School as a tenure-track Assistant Professor in Fall 2025.</span>
 
 <img src="photo.JPG" width="250" />
 
 [**Curriculum Vitae**](https://ljz0.github.io/CV.pdf)
 
 ## Working Papers
-
-### [Inference for Two-stage Experiments under Covariate-Adaptive Randomization](https://arxiv.org/pdf/2301.09016)
-
-> Revision Requested at the **Jour­nal of Econo­met­rics**.
-
 
 ### [Semiparametric Estimation of Treatment Effects in Observational Studies with Heterogeneous Partial Interference](https://arxiv.org/pdf/2107.12420.pdf) (with Zhaonan Qu, Ruoxuan Xiong and Guido Imbens)
 
@@ -32,6 +25,10 @@
 > We develop new methods for causal inference in observational studies on a single large network of interconnected units, addressing two key challenges: long-range dependence among units and the presence of general interference.
 
 ## Publications and Forthcoming Papers
+
+### [Inference for Two-stage Experiments under Covariate-Adaptive Randomization](https://www.sciencedirect.com/science/article/abs/pii/S0304407624002185?dgcid=author)
+
+> **Jour­nal of Econo­met­rics**, 253, 106189. (2026)
 
 ### [Inference in Cluster Randomized Trials with Matched Pairs](https://www.sciencedirect.com/science/article/pii/S0304407624002185?dgcid=author) (with Yuehao Bai, Azeem Shaikh and Max Tabord-Meehan)
 
