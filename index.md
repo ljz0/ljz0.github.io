@@ -8,10 +8,6 @@
 
 ## Working Papers
 
-### [Semiparametric Estimation of Treatment Effects in Observational Studies with Heterogeneous Partial Interference](https://arxiv.org/pdf/2107.12420.pdf) (with Zhaonan Qu, Ruoxuan Xiong and Guido Imbens)
-
-> Revision Requested at the **Journal of Business & Economic Statistics**.
-
 ### [On the Effi­ciency of Finely Strat­i­fied Exper­i­ments](https://arxiv.org/pdf/2307.15181.pdf) (with Yuehao Bai, Azeem Shaikh and Max Tabord-Meehan)
 
 > Revision Requested at the **Annals of Sta­tis­tics**.
@@ -25,6 +21,10 @@
 > We develop new methods for causal inference in observational studies on a single large network of interconnected units, addressing two key challenges: long-range dependence among units and the presence of general interference.
 
 ## Publications and Forthcoming Papers
+
+### [Semiparametric Estimation of Treatment Effects in Observational Studies with Heterogeneous Partial Interference](https://arxiv.org/pdf/2107.12420.pdf) (with Zhaonan Qu, Ruoxuan Xiong and Guido Imbens)
+
+> Accepted by **Journal of Business & Economic Statistics**.
 
 ### [Inference for Two-stage Experiments under Covariate-Adaptive Randomization](https://www.sciencedirect.com/science/article/abs/pii/S0304407626000102)
 
