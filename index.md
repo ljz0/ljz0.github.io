@@ -20,6 +20,10 @@
 
 > We develop new methods for causal inference in observational studies on a single large network of interconnected units, addressing two key challenges: long-range dependence among units and the presence of general interference.
 
+### [Randomization Tests in Switchback Experiments](https://arxiv.org/pdf/2602.23257) (with Liang Zhong)
+
+> We develop a randomization-test framework that delivers finite-sample valid, distribution-free p-values for several null hypotheses of interest in switchback experiments.
+
 ## Publications and Forthcoming Papers
 
 ### [Semiparametric Estimation of Treatment Effects in Observational Studies with Heterogeneous Partial Interference](https://arxiv.org/pdf/2107.12420.pdf) (with Zhaonan Qu, Ruoxuan Xiong and Guido Imbens)
