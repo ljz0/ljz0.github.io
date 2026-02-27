@@ -2,8 +2,6 @@
 
 <span style="font-size:20px;">My research focuses on causal inference and econometrics, with a particular interest in the design and analysis of randomized experiments. </span>
 
-<img src="photo.JPG" width="250" />
-
 [**Curriculum Vitae**](https://ljz0.github.io/CV.pdf)
 
 ## Working Papers
