@@ -6,10 +6,6 @@
 
 ## Working Papers
 
-### [On the Effi­ciency of Finely Strat­i­fied Exper­i­ments](https://arxiv.org/pdf/2307.15181.pdf) (with Yuehao Bai, Azeem Shaikh and Max Tabord-Meehan)
-
-> Revision Requested at the **Annals of Sta­tis­tics**.
-
 ### [Randomization Inference for Two-Sided Market Experiments](https://arxiv.org/pdf/2504.06215) (with Azeem Shaikh and Panos Toulis)
 
 > We propose a randomization inference framework to analyze outcomes from two-sided market experiments.
@@ -23,6 +19,10 @@
 > We develop a randomization-test framework that delivers finite-sample valid, distribution-free p-values for several null hypotheses of interest in switchback experiments.
 
 ## Publications and Forthcoming Papers
+
+### [On the Effi­ciency of Finely Strat­i­fied Exper­i­ments](https://arxiv.org/pdf/2307.15181.pdf) (with Yuehao Bai, Azeem Shaikh and Max Tabord-Meehan)
+
+> Accepted by **Annals of Sta­tis­tics**.
 
 ### [Semiparametric Estimation of Treatment Effects in Observational Studies with Heterogeneous Partial Interference](https://arxiv.org/pdf/2107.12420.pdf) (with Zhaonan Qu, Ruoxuan Xiong and Guido Imbens)
 
