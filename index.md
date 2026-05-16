@@ -4,6 +4,12 @@
 
 [**Curriculum Vitae**](https://ljz0.github.io/CV.pdf)
 
+## Work in Progress
+
+### [Randomization Tests for Bipartite Experiments](https://ljz0.github.io/Bipartite.pdf) (with Sizhu Lu and Peng Ding)
+
+> Randomized experiments with bipartite structures are increasingly used to study interventions where treatments and outcomes are defined on distinct but interdependent populations. This paper develops Fisherian-style randomization tests tailored for bipartite experiments.
+
 ## Working Papers
 
 ### [Randomization Inference for Two-Sided Market Experiments](https://arxiv.org/pdf/2504.06215) (with Azeem Shaikh and Panos Toulis)
