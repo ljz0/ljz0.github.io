@@ -15,6 +15,10 @@
 ### [Randomization Tests in Randomized Saturation Designs](https://arxiv.org/abs/2607.04257) (with Azeem Shaikh and Liang Zhong)
 > We develop randomization tests for randomized saturation designs under several null hypotheses that arise naturally in spillover analysis.
 
+### [Randomization Tests in Switchback Experiments](https://arxiv.org/pdf/2602.23257) (with Liang Zhong)
+
+> We develop a randomization-test framework that delivers finite-sample valid, distribution-free p-values for several null hypotheses of interest in switchback experiments.
+
 ### [Randomization Inference for Two-Sided Market Experiments](https://arxiv.org/pdf/2504.06215) (with Azeem Shaikh and Panos Toulis)
 
 > We propose a randomization inference framework to analyze outcomes from two-sided market experiments.
@@ -22,10 +26,6 @@
 ### [Auto-Doubly Robust Estimation of Causal Effects on a Network](https://arxiv.org/abs/2506.23332) (with Dake Zhang and Eric J. Tchetgen Tchetgen)
 
 > We develop new methods for causal inference in observational studies on a single large network of interconnected units, addressing two key challenges: long-range dependence among units and the presence of general interference.
-
-### [Randomization Tests in Switchback Experiments](https://arxiv.org/pdf/2602.23257) (with Liang Zhong)
-
-> We develop a randomization-test framework that delivers finite-sample valid, distribution-free p-values for several null hypotheses of interest in switchback experiments.
 
 ## Publications and Forthcoming Papers
 
