@@ -12,6 +12,9 @@
 
 ## Working Papers
 
+### [Randomization Tests in Randomized Saturation Designs](https://arxiv.org/abs/2607.04257) (with Azeem Shaikh and Liang Zhong)
+> We develop randomization tests for randomized saturation designs under several null hypotheses that arise naturally in spillover analysis.
+
 ### [Randomization Inference for Two-Sided Market Experiments](https://arxiv.org/pdf/2504.06215) (with Azeem Shaikh and Panos Toulis)
 
 > We propose a randomization inference framework to analyze outcomes from two-sided market experiments.
