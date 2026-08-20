@@ -29,13 +29,13 @@
 
 ## Publications and Forthcoming Papers
 
-### [On the Effi­ciency of Finely Strat­i­fied Exper­i­ments](https://arxiv.org/pdf/2307.15181.pdf) (with Yuehao Bai, Azeem Shaikh and Max Tabord-Meehan)
-
-> Accepted by **Annals of Sta­tis­tics**.
-
 ### [Semiparametric Estimation of Treatment Effects in Observational Studies with Heterogeneous Partial Interference](https://arxiv.org/pdf/2107.12420.pdf) (with Zhaonan Qu, Ruoxuan Xiong and Guido Imbens)
 
 > Accepted by **Journal of Business & Economic Statistics**.
+
+### [On the Effi­ciency of Finely Strat­i­fied Exper­i­ments](https://arxiv.org/pdf/2307.15181.pdf) (with Yuehao Bai, Azeem Shaikh and Max Tabord-Meehan)
+
+> **Annals of Sta­tis­tics** 54 (4): 1979–2004.
 
 ### [Inference for Two-stage Experiments under Covariate-Adaptive Randomization](https://www.sciencedirect.com/science/article/abs/pii/S0304407626000102)
 
