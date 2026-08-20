@@ -35,7 +35,7 @@
 
 ### [On the Effi­ciency of Finely Strat­i­fied Exper­i­ments](https://arxiv.org/pdf/2307.15181.pdf) (with Yuehao Bai, Azeem Shaikh and Max Tabord-Meehan)
 
-> **Annals of Sta­tis­tics** 54 (4): 1979–2004.
+> **Annals of Sta­tis­tics**, 54 (4): 1979–2004.
 
 ### [Inference for Two-stage Experiments under Covariate-Adaptive Randomization](https://www.sciencedirect.com/science/article/abs/pii/S0304407626000102)
 
