@@ -33,7 +33,7 @@
 
 > Accepted by **Journal of Business & Economic Statistics**.
 
-### [On the Effi­ciency of Finely Strat­i­fied Exper­i­ments](https://arxiv.org/pdf/2307.15181.pdf) (with Yuehao Bai, Azeem Shaikh and Max Tabord-Meehan)
+### [On the Effi­ciency of Highly Strat­i­fied Exper­i­ments](https://projecteuclid.org/journals/annals-of-statistics/volume-54/issue-4/On-the-efficiency-of-highly-stratified-experiments/10.1214/26-AOS2636.short) (with Yuehao Bai, Azeem Shaikh and Max Tabord-Meehan)
 
 > **Annals of Sta­tis­tics**, 54 (4): 1979–2004.
 
