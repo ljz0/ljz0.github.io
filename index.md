@@ -35,7 +35,7 @@
 
 ### [On the Effi­ciency of Highly Strat­i­fied Exper­i­ments](https://projecteuclid.org/journals/annals-of-statistics/volume-54/issue-4/On-the-efficiency-of-highly-stratified-experiments/10.1214/26-AOS2636.short) (with Yuehao Bai, Azeem Shaikh and Max Tabord-Meehan)
 
-> **Annals of Sta­tis­tics**, 54 (4): 1979–2004.
+> **Annals of Sta­tis­tics**, 54 (4): 1979–2004. (2026)
 
 ### [Inference for Two-stage Experiments under Covariate-Adaptive Randomization](https://www.sciencedirect.com/science/article/abs/pii/S0304407626000102)
 
