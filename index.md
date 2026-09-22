@@ -12,6 +12,10 @@
 
 ## Working Papers
 
+### [Causal inference in two-sided randomization designs: factorial regression, two-way clustering, and covariate adjustment](https://arxiv.org/abs/2609.22761) (with Pengfei Tian, Lei Shi, Peng Ding)
+
+> We study randomized experiments involving two interacting populations, such as buyers and sellers in a marketplace. We establish that researchers can estimate causal effects using ordinary least squares and conduct asymptotically valid design-based inference using the conventional two-way cluster-robust variance estimator, clustered at the buyers' and sellers' levels.
+
 ### [Randomization Tests in Randomized Saturation Designs](https://arxiv.org/abs/2607.04257) (with Azeem Shaikh and Liang Zhong)
 > We develop randomization tests for randomized saturation designs under several null hypotheses that arise naturally in spillover analysis.
 
